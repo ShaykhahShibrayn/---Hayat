@@ -1,3 +1,6 @@
+
+https://vital-save-hub.lovable.app/
+
 ## Project Overview
 
 Hayat is a web-based platform designed to simplify blood donation management by connecting blood donors, patients’ representatives, hospitals, and organizations conducting blood donation campaigns in one centralized platform.
