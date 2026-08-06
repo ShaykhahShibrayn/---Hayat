@@ -1,5 +1,5 @@
 
-https://vital-save-hub.lovable.app/
+https://hayat-sa.lovable.app/
 
 ## Project Overview
 
